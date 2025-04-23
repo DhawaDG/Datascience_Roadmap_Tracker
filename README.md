@@ -32,7 +32,7 @@ A web application built with **Streamlit** to help users track their progress in
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/data-science-roadmap-tracker.git
+   git clone https://github.com/DhawaDG/Datascience_Roadmap_Tracker
    cd data-science-roadmap-tracker
    ```
 
