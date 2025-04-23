@@ -88,11 +88,11 @@ Each stage includes:
 ## Screenshots
 
 ### Login Page
-![Login Page](![image](https://github.com/DhawaDG/Datascience_Roadmap_Tracker/blob/master/login.png)
-)
+![Login Page](login.png)
+
 
 ### Roadmap Overview
-![Overview Page](![image]https://github.com/DhawaDG/Datascience_Roadmap_Tracker/blob/master/overview.png)
+![Overview Page](overview.png)
 
 
 
