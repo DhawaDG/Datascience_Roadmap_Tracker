@@ -1,6 +1,8 @@
 # 🚀 Data Science Roadmap Tracker
-
-A web application built with **Streamlit** to help users track their progress in learning data science. The app includes a detailed roadmap with stages, topics, and resources, allowing users to log their progress, edit the roadmap, and manage their learning journey.
+As an aspiring data scientist, I often struggled to track my progress effectively. To solve this problem, I developed this web application using **Streamlit**. It helps users like me manage their learning journey by providing a structured roadmap, progress tracking, and curated resources. I hope this app will also help others on their data science journey.
+This project is a testament to my **problem-solving skills**—identifying a challenge and creating a solution for it.
+You can explore the app here: [Data Science Roadmap Tracker](https://mydsjourney.streamlit.app/)
+The app includes a detailed roadmap with stages, topics, and resources, allowing users to log their progress, edit the roadmap, and manage their learning journey.
 
 ---
 
