@@ -88,10 +88,10 @@ Each stage includes:
 ## Screenshots
 
 ### Login Page
-![Login Page](https://via.placeholder.com/800x400?text=Login+Page)
+![Login Page](https://mydsjourney.streamlit.app/)
 
 ### Roadmap Overview
-![Roadmap Overview](https://via.placeholder.com/800x400?text=Roadmap+Overview)
+![](https://via.placeholder.com/800x400?text=Roadmap+Overview)
 
 ### Progress Tracking
 ![Progress Tracking](https://via.placeholder.com/800x400?text=Progress+Tracking)
