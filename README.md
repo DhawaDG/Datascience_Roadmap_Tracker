@@ -88,13 +88,13 @@ Each stage includes:
 ## Screenshots
 
 ### Login Page
-![Login Page](https://mydsjourney.streamlit.app/)
+![Login Page](![image](https://github.com/DhawaDG/Datascience_Roadmap_Tracker/blob/master/login.png)
+)
 
 ### Roadmap Overview
-![](https://via.placeholder.com/800x400?text=Roadmap+Overview)
+![Overview Page](![image]https://github.com/DhawaDG/Datascience_Roadmap_Tracker/blob/master/overview.png)
 
-### Progress Tracking
-![Progress Tracking](https://via.placeholder.com/800x400?text=Progress+Tracking)
+
 
 ---
 
