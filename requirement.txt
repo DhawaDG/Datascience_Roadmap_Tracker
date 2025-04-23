@@ -1,0 +1,5 @@
+
+streamlit==1.25.0  # For building the web application
+sqlite3            # Built-in Python library for database management
+hashlib            # Built-in Python library for hashing
+json               # Built-in Python library for JSON handling
